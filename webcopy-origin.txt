@@ -1,0 +1,124 @@
+Uri: https://durable.sfo3.cdn.digitaloceanspaces.com/logos/26gnTtPeB0qxudWk4lg5WkRD2uWhtFkKrHiFa5cnPpvoyWJNVEKu4G3KaFDP0KoD.png
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\logos\26gnTtPeB0qxudWk4lg5WkRD2uWhtFkKrHiFa5cnPpvoyWJNVEKu4G3KaFDP0KoD.png
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Work+Sans:wght@500&family=Open+Sans:wght@400&display=swap
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXNig.ttf
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXNig.ttf
+Content Type: font/ttf
+
+Uri: https://sameeredits1.durable.co/
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\index-1.htm
+Content Type: text/html
+
+Uri: https://sameeredits1.durable.co/?pt=NjQ0NDE5YzRhODg3OTEwNTA1OGIyOTZjOjE2ODMyMTM5NzMuNjY2OnByZXZpZXc=
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\index.htm
+Content Type: text/html
+
+Uri: https://sameeredits1.durable.co/_next/static/8JwBqYSgarN-HNRKJ3CcC/_buildManifest.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\8JwBqYSgarN-HNRKJ3CcC\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/8JwBqYSgarN-HNRKJ3CcC/_ssgManifest.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\8JwBqYSgarN-HNRKJ3CcC\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/165.5fc46622ab1ba1b8.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\165.5fc46622ab1ba1b8.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/175.de70ad08039feb9e.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\175.de70ad08039feb9e.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/1b8dab7b-99ffffda4fe4c03e.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\1b8dab7b-99ffffda4fe4c03e.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/228771e0-4f25607fabbf3101.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\228771e0-4f25607fabbf3101.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/561-9ce6a7286ef4ef3b.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\561-9ce6a7286ef4ef3b.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/617.25ae01d1b11f9f5e.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\617.25ae01d1b11f9f5e.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/644-e19b240598ae46f9.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\644-e19b240598ae46f9.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/65291039-c6f0e50e59aa756d.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\65291039-c6f0e50e59aa756d.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/664-ac374a67af56732d.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\664-ac374a67af56732d.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/675-1918b3cbce167ef3.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\675-1918b3cbce167ef3.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/692-942df7d7594c8cc7.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\692-942df7d7594c8cc7.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/693-c54d652e4eccb784.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\693-c54d652e4eccb784.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/732.bec75d7cfa3415a5.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\732.bec75d7cfa3415a5.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/925.c4bb35a50b0c1684.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\925.c4bb35a50b0c1684.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/94.f00e1c53f76c128c.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\94.f00e1c53f76c128c.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/c9184924-375a28b79120852d.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\c9184924-375a28b79120852d.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/framework-8a37bd1e87a81516.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\framework-8a37bd1e87a81516.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/main-ccefb599ad987b87.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\main-ccefb599ad987b87.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/pages/[[...slug]]-c2a58b9f0c8d13e9.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\pages\[[...slug]]-c2a58b9f0c8d13e9.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/pages/_app-de0b152305ff5e07.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\pages\_app-de0b152305ff5e07.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/chunks/webpack-91acce7e3b3c90b1.js
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\chunks\webpack-91acce7e3b3c90b1.js
+Content Type: application/javascript
+
+Uri: https://sameeredits1.durable.co/_next/static/css/c678f8121a178477.css
+File Name: C:\Users\SAMEER\OneDrive\Documents\sameeredits1.durable.co\_next\static\css\c678f8121a178477.css
+Content Type: text/css
+
